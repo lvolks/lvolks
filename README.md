@@ -1,6 +1,6 @@
 # < Me >
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=UNDER%20DEVELOPMENT&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 <br>
 <h6>Don´t speak Portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here pls</a> to view this page in English.</h6>
 <br>
