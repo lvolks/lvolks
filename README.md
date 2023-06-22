@@ -3,7 +3,6 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>  
 </p>
-<br>
 <h6 align="center">Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
 <br>
 <p align="center">
