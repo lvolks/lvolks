@@ -4,7 +4,9 @@
 
 • Já programei em C, Java, C#
 <br>
-• Atualmente estou programando em JavaScript juntamente com react e Node.js
+•Estilizações com CSS e Booststrap
+<br>
+• Atualmente estou programando em JavaScript juntamente com React e Node.js
 <br>
 • Pretendo aprender Python e pHp nos próximos meses
 <br>
