@@ -4,16 +4,22 @@
 <br>
 <h6>Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
 <br>
+<br>
 • Já programei em C, Java, C#
+<br>
 <br>
 • Atualmente estou programando em JavaScript juntamente com React e Node.js
 <br>
+  <br>
 • Pretendo aprender Python e pHp nos próximos meses
 <br>
+  <br>
 • www.linkedin.com/in/lucas-volkweis-54b9a1278/
 <br>
+  <br>
 • professionalvolks@gmail.com
 </p>
+<br>
 
 <div align="center">
   <a href="https://github.com/lvolks">
