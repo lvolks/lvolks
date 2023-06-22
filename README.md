@@ -17,5 +17,5 @@
   <a href="https://github.com/lvolks">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lvolks&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&title_color=C8A2C8&text_color=C8A2C8&icon_color=C8A2C8&rank_icon=github"/>
   
-  <img height="2000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvolks&layout=compact&langs_count=7&theme=highcontrast&title_color=C8A2C8&text_color=C8A2C8&icon_color=C8A2C8"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvolks&layout=compact&langs_count=7&theme=highcontrast&title_color=C8A2C8&text_color=C8A2C8&icon_color=C8A2C8"/>
 </div>
