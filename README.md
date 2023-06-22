@@ -2,7 +2,7 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 <br>
-<h6>Don´t speak Portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here pls</a> to view this page in English.</h6>
+<h6>Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
 <br>
 • Já programei em C, Java, C#
 <br>
