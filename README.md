@@ -1,35 +1,39 @@
 # < Me >
+
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-  </p>
+</p>
+  
 <br>
 
 <h6 align="center">Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
+
 <br>
 
-    <p align="center">
+<p align="center">
 • Já programei em C, Java, C#
-      </p>
+</p>
+
 <br>
 
-      <p align="center">
+<p align="center">
 • Atualmente estou programando em JavaScript juntamente com React e Node.js
-        </p>
+</p>
 <br>
 
-        <p align="center">
+<p align="center">
 • Pretendo aprender Python e pHp nos próximos meses
-          </p>
+</p>
 <br>
 
-          <p align="center">
+<p align="center">
 • www.linkedin.com/in/lucas-volkweis-54b9a1278/
-            </p>
+</p>
 <br>
 
-            <p align="center">
+<p align="center">
 • professionalvolks@gmail.com
-              </p>
+</p>
 <br>
 
 <div align="center">
