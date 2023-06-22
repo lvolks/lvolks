@@ -4,9 +4,7 @@
   </p>
 <br>
   <br>
-  <p align="center">
-<h6>Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
-    </p>
+<h6 align="center">Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
 <br>
   <br>
     <p align="center">
