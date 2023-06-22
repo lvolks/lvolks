@@ -1,7 +1,7 @@
 # Meu nome é Lukas Volkweis
 <p align="center">
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-</p>
+<img src:"http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" >
+
 
 • Já programei em C, Java, C#
 • Atualmente estou programando em JavaScript juntamente com react e Node.js
