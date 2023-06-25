@@ -25,3 +25,11 @@
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvolks&layout=compact&langs_count=7&theme=highcontrast&title_color=C8A2C8&text_color=C8A2C8&icon_color=C8A2C8"/>
 </div>
+<br>
+<div align="center">
+            <img align="center" alt="Ber-Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+            <img align="center" alt="Ber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            <img align="center" alt="Ber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img align="center" alt="Ber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img align="center" alt="Ber-Java" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" "/>
+          </div>
