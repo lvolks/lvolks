@@ -5,16 +5,12 @@
 </p>
 <h6 align="center">Don´t speak portuguese? <a href="https://github.com/lvolks/lvolks/blob/main/README-en.md">Clicke here</a> to view this page in english.</h6>
 <br>
-<p align="center">
-• Já programei em C, Java, C#
-  </p>
-  <br>
   <p align="center">
-• Atualmente estou programando em JavaScript juntamente com React e Node.js
+• HTML, CSS, JavaScript, Node.js, React.js, APIs, Web Design, Java, Banco de Dados(MongoDB, Mongoose, SQL, SQLite, Firebase)
     </p>
     <br>
     <p align="center">
-• Pretendo aprender Python e pHp nos próximos meses
+• Realizando testes de programação em Roblox(Linguagem de programação Lua)
       </p>
       <br>
       <p align="center">
