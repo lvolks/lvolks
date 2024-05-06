@@ -9,10 +9,6 @@
 • HTML, CSS, JavaScript, Node.js, React.js, Tailwind, APIs, Web Design, Java, Banco de Dados(MongoDB, Mongoose, SQL, SQLite, Firebase)
     </p>
     <br>
-    <p align="center">
-• Realizando testes de programação em Roblox(Linguagem de programação Lua)
-      </p>
-      <br>
       <p align="center">
 • www.linkedin.com/in/lucas-volkweis-54b9a1278/
         </p>
